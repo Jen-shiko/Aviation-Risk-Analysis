@@ -20,7 +20,7 @@ Goal: is to gain insights into aviation safety and identify patterns that will e
 
 ## Key Visualizations
 ### Accidents and Incidents Over the Years
-![Accidents over time](Images/Accidenttrend.png)
+![Accidents over time](../Images/Accidenttrend.png)
 ![Incidents over time](Images/Incidenttrend.png)
 ![Injuries over time](Images/Injurytrend.png)
 
