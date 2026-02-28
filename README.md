@@ -20,30 +20,30 @@ Goal: is to gain insights into aviation safety and identify patterns that will e
 
 ## Key Visualizations
 ### Accidents and Incidents Over the Years
-![Accidents over time](../Images/Accidenttrend.png)
-![Incidents over time](Images/Incidenttrend.png)
-![Injuries over time](Images/Injurytrend.png)
+![Accidents over time](Phase1-project-aviation/Images/Accidenttrend.png)
+![Incidents over time](Phase1-project-aviation/Images/Incidenttrend.png)
+![Injuries over time](Phase1-project-aviation/Images/Injurytrend.png)
 
 ### Injuries Severity
-![Injury severity pie chart](Images/InjurySeverity.png)
+![Injury severity pie chart](Phase1-project-aviation/Images/InjurySeverity.png)
 
 ### Flight Analysis
-![Fatalities based on phase of flight](Images/Flightphases1.png)
-![Accidents based on phase of flight](Images/Flightphases2.png)
+![Fatalities based on phase of flight](Phase1-project-aviation/Images/Flightphases1.png)
+![Accidents based on phase of flight](Phase1-project-aviation/Images/Flightphases2.png)
 
 ### Top Aircraft Events Analyzed by Make
-![Aircraft accidents by Make](Images/Accidentmake.png)
-![Aircraft fatality by  Make](Images/Makefatality.png)
+![Aircraft accidents by Make](Phase1-project-aviation/Images/Accidentmake.png)
+![Aircraft fatality by  Make](Phase1-project-aviation/Images/Makefatality.png)
 
 ### Top Aircraft Models Accidents
-![Aircraft models risk](Images/Modelaccidents.png)
+![Aircraft models risk](Phase1-project-aviation/Images/Modelaccidents.png)
 
 ## Dashboard
 You can interact with the full dashboard here:  
 [View Tableau Dashboard]([https://public.tableau.com/app/profile/jeniffer.mbugua1611/viz/AviationdataProjectWorkbook/AviationSafetyInsightsDashboard]
 
 Or preview below:  
-![Dashboard Preview](Images/Dashboardpreview.png)
+![Dashboard Preview](Phase1-project-aviation/Images/Dashboardpreview.png)
 
 ## Findings
 1. Accidents over the years
@@ -73,8 +73,8 @@ Or preview below:
 6. The company should adopt a commercial-grade operational model, even if entering private charter markets.Safety culture and compliance with airline-level standards will minimize risk.
 
 ## Appendix
-[📄 Aviation Anlysis Presentation Slides (PDF)](Aviation_presentation_slides.pdf)
-[📄 Aviation Project Dashboard (PDF)](Aviation_dashboard.pdf)
-[📄 Aviation Analysis Notebook](aviation_project.ipynb)
-[📄 Aviation Analysis Notebook(PDF)](aviation_project_notebook.pdf)
+[📄 Aviation Anlysis Presentation Slides (PDF)](Phase1-project-aviation/Aviation_presentation_slides.pdf)
+[📄 Aviation Project Dashboard (PDF)](Phase1-project-aviation/Aviation_dashboard.pdf)
+[📄 Aviation Analysis Notebook](Phase1-project-aviation/aviation_project.ipynb)
+[📄 Aviation Analysis Notebook(PDF)](Phase1-project-aviation/aviation_project_notebook.pdf)
 
